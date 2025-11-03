@@ -62,7 +62,7 @@ Santo Tomas Campus
 
 ### 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:eliazamaemalibira)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:eliazamaemalibiran@gmail.com)
 
 ---
 
