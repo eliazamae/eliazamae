@@ -49,7 +49,7 @@ These projects trained careful debugging, attention to logic, and consistency in
 
 ### 🧰 Technology Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,html,css,js,git,github,mysql,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,mysql,vscode" />
 
 ---
 
