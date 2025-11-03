@@ -2,7 +2,6 @@
 
 B.S. Information Technology student at the Polytechnic University of the Philippines. Focused on systems fundamentals, structured design, and practical development work. I explore computing concepts rigorously and build projects that demonstrate discipline in architecture, documentation, and execution.
 
-### 🎯 Internship Focus
 Interested in roles related to:
 - Software development
 - IT support and operations
