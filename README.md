@@ -11,7 +11,7 @@ Aiming to gain industry exposure and contribute to real engineering workflows.
 
 ---
 
-### 🧠 Core Competencies
+### Core Competencies
 
 **Programming**
 - Python
@@ -35,7 +35,7 @@ Aiming to gain industry exposure and contribute to real engineering workflows.
 
 ---
 
-### 🗂 Featured Work
+### Featured Work
 
 - **PressPass**. Internal newsroom workflow management system
 - **2D Platformer Game**. Python-based game project
@@ -46,29 +46,13 @@ These projects trained careful debugging, attention to logic, and consistency in
 
 ---
 
-### 🧰 Technology Stack
+### Technology Stack
 
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,mysql,vscode" />
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eliazamae&show_icons=true&hide=stars&theme=default" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliazamae&layout=compact" height="160" />
-
-<br><br>
-<img src="https://streak-stats.demolab.com?user=eliazamae" height="160" />
-
-</div>
-
-> Stats may take a moment to load depending on server availability.
-
----
-
-### 🎓 Education
+### Education
 
 **Polytechnic University of the Philippines**  
 Bachelor of Science in Information Technology  
@@ -82,5 +66,5 @@ Santo Tomas Campus
 
 ---
 
-I am open to internship opportunities where structured learning, real system exposure, and disciplined contribution are expected.
+I am open to opportunities where structured learning, real system exposure, and disciplined contribution are expected.
 
